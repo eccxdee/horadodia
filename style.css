@@ -36,13 +36,13 @@
     box-shadow:5px 5px 15px ;
   }
   
-  #relogio span {
+  .relogio span {
     font-weight: bolder;
     font-size: 60px;
     color: rgb(247, 239, 228);
   }
   
-  #relogio span#tempo{
+  .relogio span#tempo{
     font-size: 10px;
     color: antiquewhite;
   }

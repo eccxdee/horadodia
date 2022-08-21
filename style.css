@@ -13,7 +13,7 @@
   align-items: center;
   }
   
-  #relogio {
+  .relogio {
   display: flex;
   align-items: center;
   justify-content: space-around;

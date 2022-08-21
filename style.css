@@ -23,7 +23,7 @@
   box-shadow: 0px 8px 10px rgba(0,0,0, .5);
   }
   
-  #relogio div{
+  .relogio div{
     height: 170px;
     width: 150px;
     display: flex;

@@ -13,3 +13,4 @@
 - HTML, CSS e JavaScript
 
 ## Funcionalidade
+- mostrar as horas, minutos e segundos do dia
